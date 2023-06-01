@@ -1,0 +1,30 @@
+# Ignore everything
+/*
+
+# Except .gitignore
+!.gitignore
+
+# Except contents of Shad in Compositions
+!Compositions.localized
+Compositions.localized/*
+!Compositions.localized/Shad
+
+# Except contents of Shad in Effects
+!Effects.localized
+Effects.localized/*
+!Effects.localized/Shad
+
+# Except contents of Shad in Generators
+!Generators.localized
+Generators.localized/*
+!Generators.localized/Shad
+
+# Except contents of Shad in Titles
+!Titles.localized
+Titles.localized/*
+!Titles.localized/Shad
+
+# Except contents of Shad in Transitions
+!Transitions.localized
+Transitions.localized/*
+!Transitions.localized/Shad
